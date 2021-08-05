@@ -73,6 +73,13 @@ article a{
   margin-top: 25px;
 }
 
+article a:hover{
+ color: whitesmokes;
+ background: blue;
+ border-color: rgb(111,111,111);
+ transition: all 0.350s ease 0s;
+}
+
 main>img:nth-child(5){
   margin-bottom:0;
 }
